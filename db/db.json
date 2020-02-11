@@ -1,0 +1,108 @@
+{
+  "login": [
+    {
+      "name": "kailash",
+      "password": "12345@"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "BBQ nation",
+      "email": "bbqn@test.com",
+      "address": "Nagpur",
+      "rating": "4.3",
+      "id": 4
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "Bhopal",
+      "rating": "4.9",
+      "id": 7
+    },
+    {
+      "name": "Halidram",
+      "email": "halidram@test.com",
+      "address": "Nagpur",
+      "rating": "3.3",
+      "id": 8
+    },
+    {
+      "name": "Jumbo Vada Pavs",
+      "email": "vp@test.com",
+      "address": "Pune",
+      "rating": "4.4",
+      "id": 10
+    },
+    {
+      "name": "Dabeli",
+      "email": "dabeli@test.com",
+      "address": "Bhopal",
+      "rating": "4.4",
+      "id": 11
+    },
+    {
+      "name": "Jalebee",
+      "email": "jal@test.com",
+      "address": "Pandhurna",
+      "rating": "5.0",
+      "id": 12
+    },
+    {
+      "name": "Jalebi-Paha",
+      "email": "jp@test.in",
+      "address": "Indore",
+      "rating": "4.3",
+      "id": 13
+    },
+    {
+      "name": "Roti",
+      "email": "roti@test.in",
+      "address": "Bhopal",
+      "rating": "4.8",
+      "id": 14
+    },
+    {
+      "name": "Mishal Pav",
+      "email": "mishal@test.com",
+      "address": "Pune",
+      "rating": "4.7",
+      "id": 15
+    },
+    {
+      "name": "Sabudaana",
+      "email": "sab@test.in",
+      "address": "Bhopal",
+      "rating": "5.0",
+      "id": 16
+    },
+    {
+      "name": "Paha",
+      "email": "paha@test.com",
+      "address": "indore",
+      "rating": "4.4",
+      "id": 17
+    },
+    {
+      "name": "Masala Dosa",
+      "email": "ms@test.in",
+      "address": "Pune",
+      "rating": "4.4",
+      "id": 18
+    },
+    {
+      "name": " Aloo Parantha",
+      "email": "ap@test.com",
+      "address": "Bhopal",
+      "rating": "4.3",
+      "id": 19
+    },
+    {
+      "name": "Mawa Cake",
+      "email": "mc@test.com",
+      "address": "Mumbai",
+      "rating": "4.3",
+      "id": 20
+    }
+  ]
+}
